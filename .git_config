@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/house3173/New_NestFuse.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
